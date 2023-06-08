@@ -1,1 +1,1 @@
-Learning basic shell commands in linux
+Learning shell permissions in ALX
